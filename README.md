@@ -1,5 +1,4 @@
-
-# Análisis de Datos de Salud Neonatal e Integración de Chatbot
+# 🌐 [Análisis de Datos de Salud Neonatal e Integración de Chatbot](https://huggingface.co/spaces/C2MV/Neonatos_Peru_Sala_Situacional)
 
 Este repositorio proporciona una solución completa basada en Python para el análisis de datos de salud neonatal utilizando técnicas de aprendizaje automático e integración con un chatbot interactivo. El sistema emplea varios servicios externos, como Pinecone para la búsqueda vectorial, Gradio para la interfaz de usuario y Sentence Transformers para el modelado semántico, creando una herramienta robusta para la consulta y visualización de datos.
 
